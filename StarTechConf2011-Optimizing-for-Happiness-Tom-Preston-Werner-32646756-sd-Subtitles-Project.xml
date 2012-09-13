@@ -159,8 +159,30 @@
     <subtitle duration="2531" effect="" end="585298" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="152" start="582767" style="Default" text="There are a few thing over the years, that we've learn." translation=""/>
     <subtitle duration="3552" effect="" end="590115" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="153" start="586563" style="Default" text="One of them is... and how we start one of our interview process," translation=""/>
     <subtitle duration="2041" effect="" end="592401" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="154" start="590360" style="Default" text="is by interviewing to impress." translation=""/>
+    <subtitle duration="3225" effect="" end="596075" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="155" start="592850" style="Default" text="There is something I heard once, which really resonated with me" translation=""/>
+    <subtitle duration="2776" effect="" end="599505" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="156" start="596729" style="Default" text="which was that people want to feel important." translation=""/>
+    <subtitle duration="3429" effect="" end="603873" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="157" start="600444" style="Default" text="If you make a person feel important, then he will like you." translation=""/>
+    <subtitle duration="1102" effect="" end="605587" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="158" start="604485" style="Default" text="It's as simple as that." translation=""/>
+    <subtitle duration="5389" effect="" end="611589" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="159" start="606200" style="Default" text="So what we do, when we bring people to San Francisco to interview for Github," translation=""/>
+    <subtitle duration="2572" effect="" end="615549" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="160" start="612977" style="Default" text="we hire a driver, have them go to the airport," translation=""/>
+    <subtitle duration="2531" effect="" end="618406" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="161" start="615875" style="Default" text="pick that person up, with the sign when you exit." translation=""/>
+    <subtitle duration="1960" effect="" end="621101" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="162" start="619141" style="Default" text="I don't know if you ever had this experience," translation=""/>
+    <subtitle duration="3615" effect="" end="624816" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="163" start="621201" style="Default" text="of having someone waiting, with the sign for you, when you exit the airport," translation=""/>
+    <subtitle duration="1755" effect="" end="626857" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="164" start="625102" style="Default" text="but it makes you feel like a &lt;i&gt;king&lt;/i&gt;." translation=""/>
+    <subtitle duration="3307" effect="" end="630531" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="165" start="627224" style="Default" text="Like the most important person in that whole airport." translation=""/>
+    <subtitle duration="2490" effect="" end="633797" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="166" start="631307" style="Default" text="And guess what: it's not very expensive." translation=""/>
+    <subtitle duration="4654" effect="" end="639349" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="167" start="634695" style="Default" text="So if you can take this little thing, this picking someone off from the airport," translation=""/>
+    <subtitle duration="2858" effect="" end="642738" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="168" start="639880" style="Default" text="as so they're, you know, some rockstar," translation=""/>
+    <subtitle duration="4041" effect="" end="647024" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="169" start="642983" style="Default" text="and they don't have to worry about getting a taxi, or getting scewed by a taxi," translation=""/>
+    <subtitle duration="3003" effect="" end="650127" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="170" start="647124" style="Default" text="or... yeah, we all have had that experience, right?" translation=""/>
+    <subtitle duration="2286" effect="" end="653270" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="171" start="650984" style="Default" text="So remove all of that and treat them really special." translation=""/>
+    <subtitle duration="3738" effect="" end="657108" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="172" start="653370" style="Default" text="That's how we start up the interview, and then we put them up in a really great hotel." translation=""/>
+    <subtitle duration="6450" effect="" end="664293" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="173" start="657843" style="Default" text="So there's an example of not optimizing for money, but instead optimizing for happiness." translation=""/>
+    <subtitle duration="3389" effect="" end="668947" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="174" start="665558" style="Default" text="So what happens later on is that this person, if you end up liking him," translation=""/>
+    <subtitle duration="2776" effect="" end="671845" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="175" start="669069" style="Default" text="is much more likely to want to come join your company" translation=""/>
+    <subtitle duration="1942" effect="" end="673887" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="176" start="671945" style="Default" text="because of that great experience." translation=""/>
   </subtitles>
   <subtitles-selection>
-    <subtitle path="152"/>
+    <subtitle path="164"/>
   </subtitles-selection>
 </SubtitleEditorProject>
