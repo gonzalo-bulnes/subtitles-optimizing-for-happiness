@@ -134,7 +134,7 @@
     <subtitle duration="3552" effect="" end="502261" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="127" start="498709" style="Default" text="So I've... I  identified three different factors" translation=""/>
     <subtitle duration="5616" effect="" end="507977" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="128" start="502361" style="Default" text="that we can figure out by, well, looking into this &quot;optimizing for happiness&quot;." translation=""/>
     <subtitle duration="1756" effect="" end="510508" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="129" start="508752" style="Default" text="The first one is people." translation=""/>
-    <subtitle duration="4758" effect="" end="515366" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="130" start="510608" style="Default" text="I like to think of companies as being build like restaurants." translation=""/>
+    <subtitle duration="4758" effect="" end="515366" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="130" start="510608" style="Default" text="I like to think of companies as being a bit like restaurants." translation=""/>
     <subtitle duration="1918" effect="" end="518019" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="131" start="516101" style="Default" text="Have you ever been walking down the street," translation=""/>
     <subtitle duration="3185" effect="" end="521857" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="132" start="518672" style="Default" text="and going by an empty restaurant? (You're looking for a place to eat.)" translation=""/>
     <subtitle duration="2858" effect="" end="525409" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="133" start="522551" style="Default" text="You're looking at an empty restaurant, you say &quot;no, that's probably not good.&quot;" translation=""/>
@@ -142,7 +142,7 @@
     <subtitle duration="3511" effect="" end="532022" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="135" start="528511" style="Default" text="and you say &quot;Hey! People really like that restaurant, let's go eat there!&quot;" translation=""/>
     <subtitle duration="2000" effect="" end="534716" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="136" start="532716" style="Default" text="All the companies are a little bit the same:" translation=""/>
     <subtitle duration="3860" effect="" end="538676" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="137" start="534816" style="Default" text="if you can fill a company with great happy people," translation=""/>
-    <subtitle duration="4595" effect="" end="543371" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="138" start="538776" style="Default" text="then other, really great people, would want to come to work for you." translation=""/>
+    <subtitle duration="4595" effect="" end="543371" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="138" start="538776" style="Default" text="then other really great people, would want to come to work for you." translation=""/>
     <subtitle duration="1673" effect="" end="546800" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="139" start="545127" style="Default" text="So this leads into a question which is:" translation=""/>
     <subtitle duration="1697" effect="" end="548597" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="140" start="546900" style="Default" text="How do you hire the best people?" translation=""/>
     <subtitle duration="3370" effect="" end="552067" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="141" start="548697" style="Default" text="And I think you should hire the best people because: what is the company made of?" translation=""/>
@@ -168,7 +168,7 @@
     <subtitle duration="2531" effect="" end="618406" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="161" start="615875" style="Default" text="pick that person up, with the sign when you exit." translation=""/>
     <subtitle duration="1960" effect="" end="621101" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="162" start="619141" style="Default" text="I don't know if you ever had this experience," translation=""/>
     <subtitle duration="3615" effect="" end="624816" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="163" start="621201" style="Default" text="of having someone waiting, with the sign for you, when you exit the airport," translation=""/>
-    <subtitle duration="1755" effect="" end="626857" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="164" start="625102" style="Default" text="but it makes you feel like a &lt;i&gt;king&lt;/i&gt;." translation=""/>
+    <subtitle duration="1755" effect="" end="626857" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="164" start="625102" style="Default" text="but it makes you feel like a king." translation=""/>
     <subtitle duration="3307" effect="" end="630531" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="165" start="627224" style="Default" text="Like the most important person in that whole airport." translation=""/>
     <subtitle duration="2490" effect="" end="633797" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="166" start="631307" style="Default" text="And guess what: it's not very expensive." translation=""/>
     <subtitle duration="4654" effect="" end="639349" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="167" start="634695" style="Default" text="So if you can take this little thing, this picking someone off from the airport," translation=""/>
@@ -183,6 +183,6 @@
     <subtitle duration="1942" effect="" end="673887" layer="0" margin-l="0" margin-r="0" margin-v="0" name="" note="" path="176" start="671945" style="Default" text="because of that great experience." translation=""/>
   </subtitles>
   <subtitles-selection>
-    <subtitle path="164"/>
+    <subtitle path="134"/>
   </subtitles-selection>
 </SubtitleEditorProject>
